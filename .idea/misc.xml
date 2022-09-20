@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Workspace/LopTHLTDD/BT5_TaoList/app/src/main/res/layout/activity_detail_banhbao.xml" value="0.25416666666666665" />
+        <entry key="..\:/Workspace/LopTHLTDD/BT5_TaoList/app/src/main/res/layout/activity_detail_banhcuon.xml" value="0.25416666666666665" />
+        <entry key="..\:/Workspace/LopTHLTDD/BT5_TaoList/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
         <entry key="..\:/Workspace/LopTHLTDD/BT5_TaoList/app/src/main/res/layout/layout_monan.xml" value="0.25416666666666665" />
       </map>
     </option>
